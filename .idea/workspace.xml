@@ -5,8 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d16be82-a4ac-45b9-8b16-3c38360f8cc1" name="Changes" comment="change folder name to &quot;backend&quot;">
+      <change afterPath="$PROJECT_DIR$/frontend2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/main/java/com/example/wendycode/WendycodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/main/java/com/example/wendycode/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/main/java/com/example/wendycode/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/main/java/com/example/wendycode/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/backend/src/test/java/com/example/wendycode/WendycodeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/assets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/Employee.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/icons/IconDocumentation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/icons/IconEcosystem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/icons/IconSupport.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/components/icons/IconTooling.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/src/services/EmployeeService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend2/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
